@@ -1,0 +1,5 @@
+/* foglio stile */
+
+.biglietto{
+    flex-wrap: nowrap;
+}
